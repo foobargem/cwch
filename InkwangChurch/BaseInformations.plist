@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>introduction</key>
+	<dict>
+		<key>pastor_name</key>
+		<string>이필산</string>
+		<key>description</key>
+		<string>우리 목사님은...
+예수님의 마음으로 섬김의 삶을 실천하는 따뜻한 마음의 소유자,
+깊은 말씀묵상을 통해 영혼의 꼴을 공급해 주는 예수님을 닮은 사람,
+찬양의 은사를 통해 성도들의 마음에 감동을 주는 하나님의 사람,
+기도하기를 힘쓰고 열정적으로 일하는 하나님의 기쁨조,
+세상을 변화시키고 차세대를 이끌어 갈 21세기 세계적인 복음의 리더입니다.</string>
+		<key>image_file_name</key>
+		<string>pastor_01</string>
+		<key>image_file_type</key>
+		<string>gif</string>
+	</dict>
+	<key>staff</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>김명섭 목사</string>
+			<key>mission_part</key>
+			<string>제5 선교구</string>
+			<key>work_part</key>
+			<string>행정, 새가족부, 전도위원회, 세계선교 위원회, 양육위원회</string>
+			<key>email</key>
+			<string>atess724@hanmail.net</string>
+			<key>mobile</key>
+			<string>010-4440-2269</string>
+			<key>phone</key>
+			<string>02-2051-2269</string>
+		</dict>
+	</array>
+</dict>
+</plist>
